@@ -7,7 +7,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import seaborn as sns
 from PIL import Image
-from typing import Dict, Any, Tuple, Optional
+from typing import Dict, Any, Tuple, Optionnal
 
 # Third‑party Streamlit component for drawing
 try:
